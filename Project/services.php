@@ -68,7 +68,7 @@
         <h2>Continuous Support and Updates</h2>
         <p>Our commitment to client success extends beyond implementation. We provide ongoing support and updates to ensure that our clients always have access to the latest features and enhancements. Our dedicated support team is available to address any questions or concerns.</p>
     </div>
-    <a href="workers dashboard.html" class="back-button">Back To Dashboard</a>
+    <a href="workers dashboard.php" class="back-button">Back To Dashboard</a>
 </div>
 
 </body>
