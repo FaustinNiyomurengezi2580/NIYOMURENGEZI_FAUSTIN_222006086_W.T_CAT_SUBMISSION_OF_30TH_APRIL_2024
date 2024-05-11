@@ -114,7 +114,7 @@
         <!-- Add more forms here -->
 
     </div>
- <a href="admin dashboard.html" class="back-button">Back to Dashboard</a>
+ <a href="admin dashboard.php" class="back-button">Back to Dashboard</a>
     <script>
         document.getElementById("workers-management-settings-form").addEventListener("submit", function(event) {
             event.preventDefault();
