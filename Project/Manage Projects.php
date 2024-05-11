@@ -132,7 +132,7 @@
         </table>
     </div>
  </div>
- <a href="admin dashboard.html" class="back-button">Back to Dashboard</a>
+ <a href="admin dashboard.php" class="back-button">Back to Dashboard</a>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const projectForm = document.getElementById('project-form');
