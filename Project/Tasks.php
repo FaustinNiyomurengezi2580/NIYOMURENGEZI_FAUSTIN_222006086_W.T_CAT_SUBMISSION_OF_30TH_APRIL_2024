@@ -73,7 +73,7 @@
         <h2>Collaboration</h2>
         <p>Promote collaboration and teamwork among your workforce. Our system facilitates communication, file sharing, and collaboration tools, allowing team members to work together seamlessly and achieve common goals.</p>
     </div>
-    <a href="workers dashboard.html" class="back-button">Back To Dashboard</a>
+    <a href="workers dashboard.php" class="back-button">Back To Dashboard</a>
 </div>
 
 </body>
