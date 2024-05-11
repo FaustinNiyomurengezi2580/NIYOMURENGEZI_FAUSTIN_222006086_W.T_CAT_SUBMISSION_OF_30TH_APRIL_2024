@@ -99,10 +99,10 @@
     <div class="container">
         <marquee><h1><b>Welcome To Workers Management System</b></h1></marquee>
         <i><p>Efficiently Manage Your Workforce With Our Intuitive System.</p></i>
-        <a href="contact us.html" class="contact-us-btn">Contact Us</a> <!-- Link to your Contact Us page -->
-        <a href="about us.html" class="about-us-btn">About Us</a> <!-- Link to your About Us page -->
-        <button class="btn" onclick="redirectTo('workers register.html')">Get Started</button> <!-- Change the URL here -->
-        <button class="btn" onclick="redirectTo('login.html')">Login</button>
+        <a href="contact us.php" class="contact-us-btn">Contact Us</a> <!-- Link to your Contact Us page -->
+        <a href="about us.php" class="about-us-btn">About Us</a> <!-- Link to your About Us page -->
+        <button class="btn" onclick="redirectTo('workers register.php')">Get Started</button> <!-- Change the URL here -->
+        <button class="btn" onclick="redirectTo('login.php')">Login</button>
     </div>
 
     <script>
