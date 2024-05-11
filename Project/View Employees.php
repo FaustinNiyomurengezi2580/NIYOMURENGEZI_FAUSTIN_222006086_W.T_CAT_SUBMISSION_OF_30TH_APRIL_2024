@@ -228,7 +228,7 @@
         </table>
 
     </div>
-    <a href="admin dashboard.html" class="back-button">Back to Dashboard</a>
+    <a href="admin dashboard.php" class="back-button">Back to Dashboard</a>
     <script>
         // Function to edit row
         function editRow(button) {
