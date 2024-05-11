@@ -69,11 +69,11 @@
   </div>
   <div class="container">
     <div class="button-container">
-      <a href="View Employees.html">View Employees</a>
-      <a href="Manage Projects.html">Manage Projects</a>
-      <a href="Generate Reports.html">Generate Reports</a>
-      <a href="Settings.html">Settings</a>
-      <a href="index.html">Logout</a>
+      <a href="View Employees.php">View Employees</a>
+      <a href="Manage Projects.php">Manage Projects</a>
+      <a href="Generate Reports.php">Generate Reports</a>
+      <a href="Settings.php">Settings</a>
+      <a href="index.php">Logout</a>
     </div>
   </div>
   <div class="dashboard">
