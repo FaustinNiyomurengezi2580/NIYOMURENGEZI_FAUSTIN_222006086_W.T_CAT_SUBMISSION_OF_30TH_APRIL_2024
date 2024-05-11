@@ -59,7 +59,7 @@
     <p>Thank you for choosing our Workers Management System. We are committed to delivering exceptional value and support to help you achieve your business objectives.</p>
 
     <!-- Back button to Worker Dashboard -->
-    <a href="workers dashboard.html" class="back-button">Back To Dashboard</a>
+    <a href="workers dashboard.php" class="back-button">Back To Dashboard</a>
 </div>
 
 </body>
