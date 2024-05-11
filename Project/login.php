@@ -189,7 +189,7 @@
             <h1>Welcome To Manager Dashboard</h1> <!-- Center-aligned header -->
         </div>
         <div class="button-container">
-            <a href="View Employeee.php">View Employeee</a>
+            <a href="View Employees.php">View Employees</a>
             <a href="Manage Projects.php">Manage Projects</a>
             <a href="Generate Reports.php">Generate Reports</a>
             <a href="Settings.php">Settings</a>
