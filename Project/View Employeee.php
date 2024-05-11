@@ -228,7 +228,7 @@
         </table>
 
     </div>
- <a href="admin dashboard.html" class="back-button">Back to Dashboard</a>
+ <a href="admin dashboard.php" class="back-button">Back to Dashboard</a>
     <script>
         // JavaScript function to log a message when the page is loaded
         window.onload = function() {
