@@ -266,7 +266,7 @@
         <!-- Add more departments and reports here -->
 
     </div>
-<a href="admin dashboard.html" class="back-button">Back to Dashboard</a>
+<a href="admin dashboard.php" class="back-button">Back to Dashboard</a>
     <script>
         function generateReport(department) {
             const reportStatus = document.getElementById(`${department}-status`);
