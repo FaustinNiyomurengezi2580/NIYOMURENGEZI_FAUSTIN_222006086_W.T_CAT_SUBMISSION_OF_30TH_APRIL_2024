@@ -151,12 +151,12 @@
         </header>
         
         <div class="button-container">
-            <a href="index.html">Home</a>
-            <a href="services.html">services</a>
-            <a href="about us.html">About Us</a>
-            <a href="contact.html">Contact Us</a>
-            <a href="tasks.html">Tasks</a>
-            <a href="notifications.html">Notifications</a>
+            <a href="index.php">Home</a>
+            <a href="services.php">services</a>
+            <a href="about us.php">About Us</a>
+            <a href="contact.php">Contact Us</a>
+            <a href="tasks.php">Tasks</a>
+            <a href="notifications.php">Notifications</a>
         </div>
         <footer>
             <div>
@@ -189,11 +189,11 @@
             <h1>Welcome To Manager Dashboard</h1> <!-- Center-aligned header -->
         </div>
         <div class="button-container">
-            <a href="View Employees.html">View Employees</a>
-            <a href="Manage Projects.html">Manage Projects</a>
-            <a href="Generate Reports.html">Generate Reports</a>
-            <a href="Settings.html">Settings</a>
-            <a href="index.html">Logout</a>
+            <a href="View Employeee.php">View Employeee</a>
+            <a href="Manage Projects.php">Manage Projects</a>
+            <a href="Generate Reports.php">Generate Reports</a>
+            <a href="Settings.php">Settings</a>
+            <a href="index.php">Logout</a>
         </div>
         <div class="dashboard-manager">
             <div class="dashboard-content-manager">
@@ -211,11 +211,11 @@
             <h1>Welcome To Accountant Dashboard</h1>
         </header>
         <div class="button-container">
-            <a href="index.html">Home</a>
-            <a href="workers list.html">Workers List</a>
-            <a href="payroll and salary.html">Payroll and Salary</a>
-            <a href="Reports.html">Reports</a>
-            <a href="index.html">Logout</a>
+            <a href="index.php">Home</a>
+            <a href="workers list.php">Workers List</a>
+            <a href="payroll and salary.php">Payroll and Salary</a>
+            <a href="Reports.php">Reports</a>
+            <a href="index.php">Logout</a>
         </div>
 
         <footer>
