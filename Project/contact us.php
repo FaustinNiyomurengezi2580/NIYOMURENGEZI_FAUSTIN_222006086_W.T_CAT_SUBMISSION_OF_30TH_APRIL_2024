@@ -97,7 +97,7 @@
     </div>
 </div>
 
-<a href="workers dashboard.html" class="back-button">Back To Dashboard</a>
+<a href="workers dashboard.php" class="back-button">Back To Dashboard</a>
 
 <script>
     function sendSMS() {
