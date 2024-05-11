@@ -150,6 +150,6 @@
     document.querySelector('.update').addEventListener('click', handleUpdate);
     document.querySelector('.delete').addEventListener('click', handleDelete);
 </script>
-<a href="admin dashboard.html" class="back-button">Back to Dashboard</a>
+<a href="admin dashboard.php" class="back-button">Back to Dashboard</a>
 </body>
 </html>
