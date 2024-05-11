@@ -76,7 +76,7 @@
             <!-- Worker items will be dynamically added here -->
         </div>
     </div>
-    <a href="accountant dashboard.html" class="back-button">Back to Dashboard</a>
+    <a href="accountant dashboard.php" class="back-button">Back to Dashboard</a>
 
     <script>
         // Sample worker data
