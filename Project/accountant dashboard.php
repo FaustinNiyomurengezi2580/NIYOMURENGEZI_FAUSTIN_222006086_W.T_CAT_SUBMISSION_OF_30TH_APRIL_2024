@@ -76,11 +76,11 @@
     <div class="container">
         <h1>Welcome To Accountant Dashboard</h1>
         <div class="button-container">
-            <a href="index.html" class="button">Home</a>
-            <a href="workers list.html" class="button">Workers List</a>
-            <a href="payroll and salary.html" class="button">Payroll and Salary</a>
-            <a href="index.html" class="button">Logout</a>
-            <a href="Reports.html" class="button">Reports</a>
+            <a href="index.php" class="button">Home</a>
+            <a href="workers list.php" class="button">Workers List</a>
+            <a href="payroll and salary.php" class="button">Payroll and Salary</a>
+            <a href="index.php" class="button">Logout</a>
+            <a href="Reports.php" class="button">Reports</a>
         </div>
         <div class="dashboard">
             <div class="dashboard-content">
