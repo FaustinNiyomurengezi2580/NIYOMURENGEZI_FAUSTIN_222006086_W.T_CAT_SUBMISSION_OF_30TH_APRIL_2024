@@ -53,7 +53,7 @@
 
 <div class="container">
     <h2>Accountant Register</h2>
-    <form id="accountantForm" action="login.html" method="post">
+    <form id="accountantForm" action="login.php" method="post">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required>
 
