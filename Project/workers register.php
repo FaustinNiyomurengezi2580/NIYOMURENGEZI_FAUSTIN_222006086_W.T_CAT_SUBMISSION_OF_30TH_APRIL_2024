@@ -150,7 +150,7 @@
             // You can also submit the form data to a server using AJAX or fetch API
 
             // Redirect to another page
-            window.location.href = 'login.html'; // Replace 'other_page.html' with the desired URL
+            window.location.href = 'login.php'; // Replace 'other_page.php' with the desired URL
         });
     </script>
 </body>
