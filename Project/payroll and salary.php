@@ -122,7 +122,7 @@
             <button type="submit" class="button">Submit</button>
         </form>
     </div>
-     <a href="accountant dashboard.html" class="back-button">Back to Dashboard</a>
+     <a href="accountant dashboard.php" class="back-button">Back to Dashboard</a>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
