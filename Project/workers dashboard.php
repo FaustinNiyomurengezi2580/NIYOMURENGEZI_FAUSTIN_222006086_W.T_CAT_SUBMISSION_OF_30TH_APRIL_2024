@@ -150,9 +150,9 @@
       <div class="dropdown">
         <button class="dropbtn">Settings</button>
         <div class="dropdown-content">
-          <a href="view profile.html">View Profile</a>
-          <a href="edit profile.html">Edit Profile</a>
-          <a href="index.html" id="logoutBtn">Logout</a>
+          <a href="view profile.php">View Profile</a>
+          <a href="edit profile.php">Edit Profile</a>
+          <a href="index.php" id="logoutBtn">Logout</a>
         </div>
       </div>
       <div>
@@ -161,14 +161,14 @@
       </div>
     </header>
     <div class="button-container">
-      <button id="homeBtn" onclick="location.href='index.html'">Home<span class="sticker"></span></button>
+      <button id="homeBtn" onclick="location.href='index.php'">Home<span class="sticker"></span></button>
 
-      <button id="servicesBtn" onclick="location.href='services.html'">services<span class="sticker"></span></button>
-      <button id="aboutBtn" onclick="location.href='about us.html'">About Us<span class="sticker"></span></button>
-      <button id="contactBtn" onclick="location.href='contact us.html'">Contact Us<span class="sticker"></span></button>
-      <button id="tasksBtn" onclick="location.href='Tasks.html'">Tasks<span class="sticker"></span></button>
+      <button id="servicesBtn" onclick="location.href='services.php'">services<span class="sticker"></span></button>
+      <button id="aboutBtn" onclick="location.href='about us.php'">About Us<span class="sticker"></span></button>
+      <button id="contactBtn" onclick="location.href='contact us.php'">Contact Us<span class="sticker"></span></button>
+      <button id="tasksBtn" onclick="location.href='Tasks.php'">Tasks<span class="sticker"></span></button>
 
-      <button id="notificationsBtn" onclick="location.href='notifications.html'">Notifications<span class="sticker"></span></button>
+      <button id="notificationsBtn" onclick="location.href='notifications.php'">Notifications<span class="sticker"></span></button>
     </div>
     <content class="content">
     </content>
